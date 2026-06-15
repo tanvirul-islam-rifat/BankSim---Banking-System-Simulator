@@ -24,7 +24,6 @@ class Account:
         self.__owner_name = owner_name
         self.__balance = float(balance)
 
-    # Getters
     def get_account_number(self):
         return self.__account_number
 
