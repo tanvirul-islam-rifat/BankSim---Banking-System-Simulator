@@ -40,8 +40,8 @@ Bank                 — aggregates all Account objects; manages persistence & o
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourGitHubUsername/banksim-banking-system.git
-cd banksim-banking-system
+git clone https://github.com/tanvirul-islam-rifat/BankSim---Banking-System-Simulator.git
+cd BankSim---Banking-System-Simulator
 
 # Run the application (Python 3 required, no external libraries needed)
 python3 banksim.py
@@ -99,7 +99,7 @@ banksim-banking-system/
 
 ## Technical Architecture
 
-- **Language:** Python 3.x
+- **Language:** Python 3.0
 - **Paradigm:** Object-Oriented Programming (OOP)
 - **Data Storage:** Flat-file text database (`.txt`) with dynamic serialization and deserialization
 - **Interface:** Command Line Interface (CLI)
