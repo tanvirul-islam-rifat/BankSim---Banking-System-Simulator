@@ -3,7 +3,6 @@ BankSim - Banking System Simulator
 An OOP-based CLI application simulating core banking operations including
 account management, transactions, and interest calculation.
 
-Course: CSE111 - Programming Language II
 """
 
 import os
