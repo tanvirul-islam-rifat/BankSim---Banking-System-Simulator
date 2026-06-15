@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Generated data files (folder is tracked, records are not)
+data/accounts.txt
+data/transactions.txt
+
+# OS files
+.DS_Store
